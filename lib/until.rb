@@ -4,4 +4,3 @@ def using_until
           put 'Wingardium Leviosa'
         end  
 end
-
